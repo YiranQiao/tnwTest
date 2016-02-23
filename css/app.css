@@ -1,4 +1,9 @@
-.logoImg{
+.row .logoImg img{
   width: 450px;
-  height: 183px;
+  height: 150px;
+}
+
+.row .logoImg2 img{
+  width: 800px;
+  height: 150px;
 }
