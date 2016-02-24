@@ -1,0 +1,17 @@
+.row .imgOne img{
+width: 650px;
+}
+
+.row .imgTwo img{
+  width: 282px;
+  height: 165px;
+}
+.new h4{
+  color: red;
+  font-size: 40px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.thumbnail{
+  margin: 10px;
+}
